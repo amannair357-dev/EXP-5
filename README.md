@@ -19,9 +19,11 @@ S.No	Name of the Apparatus	Range	Quantity
 
 #### Line Regulation:
 
+![alt text](a.jpeg)
 
 #### Load Regulation:
 
+![alt text](b.jpeg)
 
 ### THEORY:
 	
@@ -44,11 +46,11 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 
 ##### Line characteristics
 
-
+![alt text](c.jpeg)
 
 ##### Load Characteristics
 
-
+![alt text](d.jpeg)
 
 
 ### PRECAUTIONS:
