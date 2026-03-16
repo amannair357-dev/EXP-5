@@ -31,7 +31,18 @@ OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
 
+<img width="760" height="585" alt="Screenshot 2025-12-14 145552" src="https://github.com/user-attachments/assets/2ddaf460-1480-4325-9bab-b5960ae430a6" />
+
 V-I & REGULATION CHARACTERISTICS:
+
+Line characteristics
+
+![alt text](<Line Characteristics.jpeg>)
+
+Load Characteristics
+
+![alt text](<Load Characteristics.jpeg>)
+
 
 PRECAUTIONS:
 
